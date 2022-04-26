@@ -1,0 +1,44 @@
+body{direction:rtl;text-align:right;}
+.logo-header {
+   
+float: right;}
+.rev-slider,.owl-carousel .owl-stage-outer {
+    direction: ltr;
+    text-align: right;
+}
+.rev_slider a{direction:rtl;}
+.widget_getintuch li {
+    margin-bottom: 20px;
+    position: relative;
+    padding-right: 40px;
+}
+.widget_getintuch i {
+    position: absolute;
+    right: 0;
+    top: 5px;
+left:auto;}
+.widget_archive ul li:before, .widget_categories ul li:before, .widget_meta ul li:before, .widget_nav_menu ul li:before, .widget_pages ul li:before, .widget_recent_comments ul li:before, .widget_recent_entries ul li:before, .widget_services ul li:before {
+    content: "\f105";
+    position: absolute;
+right: 0;left:auto;}
+.shop-item-rating {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: auto;
+}
+
+.site-filters.style1 li a:after {
+    background-color: #000316;
+    content: "";
+    height: 100%;
+    opacity: .2;
+    position: absolute;
+    right: -2px;
+    top: 0;
+    transform: skew(-20deg,-20deg);
+    -moz-transform: skew(-20deg,-20deg);
+    -webkit-transform: skew(-20deg,-20deg);
+    -o-transform: skew(-20deg,-20deg);
+    width: 2px;
+}

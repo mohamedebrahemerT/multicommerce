@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/script/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/script/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/script/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/script/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/script/vendor/check/src" isTestSource="true" packagePrefix="Amcoders\Check\" />
+      <sourceFolder url="file://$MODULE_DIR$/script/vendor/laravel/vendor/src" isTestSource="true" packagePrefix="Laravel\Larafy\" />
+      <sourceFolder url="file://$MODULE_DIR$/script/vendor/lpress/src" isTestSource="true" packagePrefix="Amcoders\Lpress\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/uxweb/sweet-alert" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/stripe/stripe-php" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/milon/barcode" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/laravelcollective/html" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/league/config" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/kwn/number-to-words" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/nette/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/nette/schema" />
+      <excludeFolder url="file://$MODULE_DIR$/script/vendor/dflydev/dot-access-data" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
